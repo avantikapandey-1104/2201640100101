@@ -9,16 +9,15 @@ It includes a Flask-based microservice implementation of a **URL Shortener**, wi
 
 ## 📌 Project Structure
 ├── logging-middleware/
-│ └── logger.py # Logging Middleware Implementation
+│ └── logger.py 
 │
 ├── backend-test-submission/
-│ ├── app.py # Main Flask Application
-│ ├── url_store.py # In-memory URL store & analytics
-│ ├── logger.py # Middleware copy for backend
-│ └── architecture.png # Architecture diagram (added by me)
+│ ├── app.py
+│ ├── url_store.py 
+│ ├── logger.py 
+│ └── architecture.png 
 │
-└── README.md # Project Documentation
-
+└── README.md 
 
 ---
 
