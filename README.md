@@ -42,5 +42,13 @@ It includes a Flask-based microservice implementation of a **URL Shortener**, wi
 
 ## 🏗️ Architecture
 
+
+
+
 ---
+
+output Screenshot
+
+![Create Short URL](screenshots/result.png)
+
 
